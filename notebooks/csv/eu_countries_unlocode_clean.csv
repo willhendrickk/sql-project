@@ -1,0 +1,27 @@
+﻿UN_Location_Code,EU_Country,Capital_City,Region,Eurozone
+ATVIE,Austria,Vienna,West,Yes
+BEBRU,Belgium,Brussels,West,Yes
+BGSOF,Bulgaria,Sofia,East,No
+HRZAG,Croatia,Zagreb,South,Yes
+CZPRG,Czech Republic,Prague,East,No
+DKCPH,Denmark,Copenhagen,North ,No
+EETLL,Estonia,Tallinn,North ,Yes
+FIHEL,Finland,Helsinki,North ,Yes
+FRPAR,France,Paris,West,Yes
+DEBER,Germany,Berlin ,West,Yes
+GRATH,Greece,Athens,South,Yes
+HUBUD,Hungary,Budapest,East,No
+IEDUB,Ireland,Dublin,North ,Yes
+ITROM,Italy,Rome,South,Yes
+LVRIX,Latvia,Riga,North ,Yes
+LTVNO,Lithuania,Vilnius,North ,Yes
+LULUX,Luxembourg,Luxembourg City,West,Yes
+MTMLA,Malta,Valletta,South,Yes
+NLAMS,Netherlands,Amsterdam,West,Yes
+PLWAW,Poland,Warsaw,East,No
+PTLIS ,Portugal,Lisbon,South,Yes
+ROBUH,Romania,Bucharest,East,No
+SKBTS,Slovakia,Bratislava,East,Yes
+SILJU,Slovenia,Ljubljana,South,Yes
+ESMAD,Spain,Madrid,South,Yes
+SESTO,Sweden,Stockholm,North ,No
