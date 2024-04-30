@@ -13,7 +13,7 @@ This project is directly relevant to the job role at PlanetArt, as it involves a
 The data for this project was sourced from multiple APIs, web scraping, and public datasets: 
 
 - **OpenAI API**: Used for accessing completion APIs to retrieve knowledge base answers, specifically querying the capital city of each EU country and their corresponding UN/LOCODE.
-- **Freightos API**: Used to estimate air freight rates from LAX to the capital cities of all EU countries, excluding Cyprus.
+- **Freightos API**: Used to estimate air freight rates for a 0.1 CBM box from LAX to the capital cities of all EU countries, excluding Cyprus.
 - **Web Scraping**: Scraped a list of EU countries and their GDP from 2 different URLs.
 - **LPI datasets**: Downloaded from lpi.worldbank.org 
 
