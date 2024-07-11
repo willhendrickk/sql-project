@@ -7,7 +7,7 @@ The objective of this project is to find cost-saving opportunities by leveraging
 ### PlanetArt - Logistics Data Analyst
 PlanetArt is an e-commerce company, specializing in high-quality personalized products. The Logistics Data Analyst role focuses on using data-driven insights to drive business decisions, reduce costs, and improve operational efficiencies. The ideal candidate will have a strong background in analyzing shipping options, managing freight costs, and developing automation for freight cost reporting. The responsibilities also include developing tools for monitoring worldwide shipping method accuracy and designing reports to highlight cost-saving opportunities.
 
-This project is directly relevant to the job role at PlanetArt, as it involves analyzing logistics data to drive business decision and reduce cost. 
+This project is directly relevant to the job role at PlanetArt, as it involves analyzing logistics data to drive business decisions and reduce cost. 
 
 ## Data
 The data for this project was sourced from multiple APIs, web scraping, and public datasets: 
